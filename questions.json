@@ -1,0 +1,232 @@
+{
+  "heading": "GSG4Math_Expanded And Standard Form, Decimal Place Value Charts",
+  "topics": [
+    {
+      "heading": "Expanded And Standard Form, Decimal Place Value Charts",
+      "questions": [
+  {
+    "questionNo": 1,
+    "question": ["What number is represented by the expanded form:<br> 30000 + 4000 + 500 + 80?"],
+    "options": [
+      { "text": "34508" },
+      { "text": "30458" },
+      { "text": "34058" },
+      { "text": "34580" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 2,
+    "question": ["Write the following in standard form:<br> 7000 + 600 + 40 + 9"],
+    "options": [
+      { "text": "7649" },
+      { "text": "7609" },
+      { "text": "7640" },
+      { "text": "7469" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 3,
+    "question": ["Which is the correct expanded form of 52306?"],
+    "options": [
+      { "text": "50000 + 2000 + 300 + 6" },
+      { "text": "5000 + 20000 + 300 + 6" },
+      { "text": "50000 + 2300 + 6" },
+      { "text": "52000 + 300 + 6" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 4,
+    "question": ["Which expanded form represents 84090?"],
+    "options": [
+      { "text": "80000 + 4000 + 90" },
+      { "text": "80000 + 4090" },
+      { "text": "84000 + 90" },
+      { "text": "80000 + 400 + 90" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 5,
+    "question": ["In the number 5.2749, which digit is in the thousandths place?"],
+    "options": [
+      { "text": "2" },
+      { "text": "7" },
+      { "text": "4" },
+      { "text": "9" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 6,
+    "question": ["In the number 8.63925, which digit is in the hundredths place?"],
+    "options": [
+      { "text": "3" },
+      { "text": "9" },
+      { "text": "2" },
+      { "text": "5" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 7,
+    "question": ["In the decimal 19.406, which digit is in the ones place?"],
+    "options": [
+      { "text": "4" },
+      { "text": "0" },
+      { "text": "6" },
+      { "text": "9" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 8,
+    "question": ["Which digit is in the tens place in 417.308?"],
+    "options": [
+      { "text": "4" },
+      { "text": "1" },
+      { "text": "7" },
+      { "text": "3" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 9,
+    "question": ["What is the value of the digit 3 in 6.0035?"],
+    "options": [
+      { "text": "3" },
+      { "text": "0.3" },
+      { "text": "0.03" },
+      { "text": "0.003" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 10,
+    "question": ["In the number 7.480, what is the value of the digit 4?"],
+    "options": [
+      { "text": "4" },
+      { "text": "0.4" },
+      { "text": "0.04" },
+      { "text": "0.004" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 11,
+    "question": ["In 8.6094, which digit has the smallest place value?"],
+    "options": [
+      { "text": "8" },
+      { "text": "6" },
+      { "text": "9" },
+      { "text": "4" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 12,
+    "question": ["Which number shows the digit 6 having the greatest value?"],
+    "options": [
+      { "text": "0.642" },
+      { "text": "6.024" },
+      { "text": "0.062" },
+      { "text": "0.206" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 13,
+    "question": ["In which number does the digit 4 have the smallest value?"],
+    "options": [
+      { "text": "4.015" },
+      { "text": "0.45" },
+      { "text": "0.04" },
+      { "text": "0.004" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 14,
+    "question": ["In the number 3.5862, the digit in the tenths place is swapped with the digit in the hundredths place. What is the new number?"],
+    "options": [
+      { "text": "3.8562" },
+      { "text": "3.5682" },
+      { "text": "3.5862" },
+      { "text": "3.8526" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 15,
+    "question": ["In 9.2047, interchange the hundredths digit and the thousandths digit. What is the new number?"],
+    "options": [
+      { "text": "9.2407" },
+      { "text": "9.0247" },
+      { "text": "9.2074" },
+      { "text": "9.2470" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 16,
+    "question": ["In the number 16.8195, the digit in the ones place is swapped with the digit in the tenths place. What is the new number?"],
+    "options": [
+      { "text": "18.6195" },
+      { "text": "16.1895" },
+      { "text": "18.1695" },
+      { "text": "11.6895" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 17,
+    "question": ["A computer displays a number by listing the place values of its digits.<br>5 in the ones place, 2 in the tenths place, and 9 in the hundredths place.<br> What number is shown?"],
+    "options": [
+      { "text": "5.29" },
+      { "text": "5.209" },
+      { "text": "5.92" },
+      { "text": "5.029" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 18,
+    "question": ["A digital system records a number as follows:<br> 3 in the ones place, 7 in the hundredths place, and 4 in the thousandths place. <br>What number did the system record?"],
+    "options": [
+      { "text": "3.074" },
+      { "text": "3.704" },
+      { "text": "3.047" },
+      { "text": "3.740" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 19,
+    "question": ["In the number 4.3926, interchange the tenths digit and the hundredths digit.<br> What is the new number?"],
+    "options": [
+      { "text": "4.9326" },
+      { "text": "4.3296" },
+      { "text": "4.2396" },
+      { "text": "4.3926" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 20,
+    "question": ["In the number 8.6453, the digit in the ten-thousandths place is swapped with the digit in the tenths place. <br>What is the new number?"],
+    "options": [
+      { "text": "8.3546" },
+      { "text": "8.4653" },
+      { "text": "8.5463" },
+      { "text": "8.3456" }
+    ],
+    "answer": 3
+  }
+]
+
+
+    }
+  ]
+}
